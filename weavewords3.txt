@@ -1,4 +1,4 @@
-AP CodingBat WeaveWords3 
+
 
 public String weaveWords3(String str1, String str2){
   
